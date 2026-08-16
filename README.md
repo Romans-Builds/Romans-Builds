@@ -1,4 +1,4 @@
-# Roman · Testy911cody
+# Labi Roman · Testy911cody
 
 I ship web products on **[housegames.club](https://housegames.club)** — one Next.js site that hosts multiplayer party games *and* embedded standalone apps: AAC for nonspeaking kids, ride booking, voice rooms, retro social profiles.
 
@@ -32,9 +32,13 @@ Full catalog: **[housegames.club/apps](https://housegames.club/apps)**
 
 [`amoory-app`](https://github.com/Testy911cody/amoory-app) — Talk Board, the AAC PWA. Most other product repos are private; the live demos above are the honest version of "go look at my work."
 
+---
+
 ## Contact
 
-- LinkedIn: [linkedin.com/in/labi-roman](https://linkedin.com/in/labi-roman)
-- GitHub: [github.com/Testy911cody](https://github.com/Testy911cody)
+- LinkedIn: [linkedin.com/in/labi-roman](https://www.linkedin.com/in/labi-roman)
+- GitHub (live until rename): [github.com/Testy911cody](https://github.com/Testy911cody)
+- Portfolio (GitHub Pages): [testy911cody.github.io/RomanProjects](https://testy911cody.github.io/RomanProjects/)
+- Live products: [housegames.club](https://housegames.club)
 
-Portfolio site (GitHub Pages): [testy911cody.github.io/RomanProjects](https://testy911cody.github.io/RomanProjects/)
+*Portfolio: [RomanProjects](https://github.com/Testy911cody/RomanProjects) on GitHub Pages.*
