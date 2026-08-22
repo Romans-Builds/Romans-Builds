@@ -1,44 +1,27 @@
-# Labi Roman · Testy911cody
+# Labi Roman
 
-I ship web products on **[housegames.club](https://housegames.club)** — one Next.js site that hosts multiplayer party games *and* embedded standalone apps: AAC for nonspeaking kids, ride booking, voice rooms, retro social profiles.
+Based in Dammam, Saudi Arabia. US citizen. Data systems and product engineer — 10+ years across upstream oil and gas production data, enterprise IT, and applied AI — now shipping TypeScript/Node and React Native products.
 
-Everything below is a live URL. The House Games repo itself is private, so I link the running product rather than a clone command.
+## What I work on
 
-## Open these
+Full-stack product work in TypeScript and Node, React Native / Expo, and REST APIs. Earlier career: system owner for Avocet production data and automated daily crude reporting (SQL + VBA) at a multi-field operator — employment history, not a public repo.
 
-| Product | What it is | Live |
-|---------|------------|------|
-| **House Games** | Neon arcade — rooms, guest play, Jeopardy / Taboo / Codenames / DrawGuess / Werewolf and more | [housegames.club](https://housegames.club) |
-| **Talk Board** | Picture-and-voice AAC; record real voices for dialects with no computer TTS | [/amoory/](https://housegames.club/amoory/) · [source](https://github.com/Testy911cody/amoory-app) |
-| **GoFleet** | Taxi / limo / truck booking with fare estimates and dispatch | [/gofleet/book](https://housegames.club/gofleet/book) |
-| **PityParty** | Supportive voice rooms — join from a link, no account | [/pityparty/](https://housegames.club/pityparty/) |
-| **Mychillplace** | Retro profiles, top friends, bulletins, profile song | [/mychillplace/](https://housegames.club/mychillplace/) |
-| **Women ↔ Men Translator** | Voice-first phrase interpreter and warmer rephrase | [/apps/women-men-translator](https://housegames.club/apps/women-men-translator) |
+## Public work
 
-Full catalog: **[housegames.club/apps](https://housegames.club/apps)**
+- **[Talk Board (amoory-app)](https://github.com/Testy911cody/amoory-app)** — picture-and-voice AAC PWA with community dialect recordings. Live: [housegames.club/amoory/](https://housegames.club/amoory/)
 
-## Stack I use for real
+## Private work
 
-`TypeScript` · `React` · `Next.js 16 (App Router)` · `Expo / React Native Web` · `Tailwind CSS` · `Supabase` · `Cloudflare Pages` · `Pages Functions / Hono` · `Node + Express` · `PWA` · `GitHub Actions`
+Commercial and client work stays private. Matter-of-fact:
 
-## A few things I care about
+- **GoFleet Dispatch** — Expo + Express/TypeScript dispatch and booking (taxi / limo / truck modules). Live booking UI: [housegames.club/gofleet/book](https://housegames.club/gofleet/book)
+- **Agent tooling with human approval gates** — local discovery / draft pipeline (private). Not a standalone public LLM product.
+- Other commercial projects are private; I link live demos where they exist rather than clone instructions.
 
-- **Guest-first.** House Games rooms and PityParty campfires work with no account. Sign-in adds persistence; it is not a gate at the door.
-- **One domain, two kinds of app.** `/games` is the Next.js arcade. `/apps` is a catalog of separate codebases exported to static files and served from the same origin — one deploy, no cross-origin auth juggling.
-- **Deliberate releases.** CI runs QA on every push; the production Cloudflare upload is opt-in (an explicit marker or a manual dispatch), so previews stay cheap and releases stay intentional.
-- **Accessibility that fits the user.** Talk Board exists because commercial AAC has no voice for Sudanese and Juba Arabic. Community-recorded audio fills the gap that TTS cannot.
-
-## Public source
-
-[`amoory-app`](https://github.com/Testy911cody/amoory-app) — Talk Board, the AAC PWA. Most other product repos are private; the live demos above are the honest version of "go look at my work."
-
----
-
-## Contact
+## Reach me
 
 - LinkedIn: [linkedin.com/in/labi-roman](https://www.linkedin.com/in/labi-roman)
-- GitHub (live until rename): [github.com/Testy911cody](https://github.com/Testy911cody)
-- Portfolio (GitHub Pages): [testy911cody.github.io/RomanProjects](https://testy911cody.github.io/RomanProjects/)
-- Live products: [housegames.club](https://housegames.club)
+- Portfolio: [testy911cody.github.io/RomanProjects](https://testy911cody.github.io/RomanProjects/)
+- GitHub (until rename): [github.com/Testy911cody](https://github.com/Testy911cody)
 
-*Portfolio: [RomanProjects](https://github.com/Testy911cody/RomanProjects) on GitHub Pages.*
+*Planned username: `roman` if available at rename time; otherwise a free `roman-*` without “labi” (see Career-Hub `GITHUB_RENAME.md`). Profile repo must match username (`Testy911cody/Testy911cody` today → `{username}/{username}` after rename).*
