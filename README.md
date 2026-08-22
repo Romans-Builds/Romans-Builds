@@ -1,22 +1,19 @@
 # Labi Roman
 
-Based in Dammam, Saudi Arabia. US citizen. Data systems and product engineer — 10+ years across upstream oil and gas production data, enterprise IT, and applied AI — now shipping TypeScript/Node and React Native products.
-
-## What I work on
-
-Full-stack product work in TypeScript and Node, React Native / Expo, and REST APIs. Earlier career: system owner for Avocet production data and automated daily crude reporting (SQL + VBA) at a multi-field operator — employment history, not a public repo.
+Full-stack product builder. Products built in the United States and shipped online (TypeScript / Node, React, Expo).
 
 ## Public work
 
-- **[Talk Board (amoory-app)](https://github.com/Romans-Builds/amoory-app)** — picture-and-voice AAC PWA with community dialect recordings. Live: [housegames.club/amoory/](https://housegames.club/amoory/)
+- **[Talk Board (amoory-app)](https://github.com/Romans-Builds/amoory-app)** â€” picture-and-voice AAC PWA with community dialect recordings. Live: [housegames.club/amoory/](https://housegames.club/amoory/)
 
-## Private work
+## Private work (live demos; source on request)
 
-Commercial and client work stays private. Matter-of-fact:
+- **House Games** â€” Next.js games + apps hub. Live: [housegames.club](https://housegames.club)
+- **GoFleet** â€” Expo + Express/TypeScript dispatch and booking. Live booking UI: [housegames.club/gofleet/book](https://housegames.club/gofleet/book)
+- **PityParty** â€” supportive voice rooms. Live: [housegames.club/pityparty/](https://housegames.club/pityparty/)
+- **Mychillplace** â€” retro social SPA. Live: [housegames.club/mychillplace/](https://housegames.club/mychillplace/)
 
-- **GoFleet Dispatch** — Expo + Express/TypeScript dispatch and booking (taxi / limo / truck modules). Live booking UI: [housegames.club/gofleet/book](https://housegames.club/gofleet/book)
-- **Agent tooling with human approval gates** — local discovery / draft pipeline (private). Not a standalone public LLM product.
-- Other commercial projects are private; I link live demos where they exist rather than clone instructions.
+Commercial and client source stays private. I link live demos rather than clone instructions.
 
 ## Reach me
 
