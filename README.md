@@ -8,7 +8,7 @@ Full-stack product work in TypeScript and Node, React Native / Expo, and REST AP
 
 ## Public work
 
-- **[Talk Board (amoory-app)](https://github.com/Testy911cody/amoory-app)** — picture-and-voice AAC PWA with community dialect recordings. Live: [housegames.club/amoory/](https://housegames.club/amoory/)
+- **[Talk Board (amoory-app)](https://github.com/Romans-Builds/amoory-app)** — picture-and-voice AAC PWA with community dialect recordings. Live: [housegames.club/amoory/](https://housegames.club/amoory/)
 
 ## Private work
 
@@ -21,7 +21,5 @@ Commercial and client work stays private. Matter-of-fact:
 ## Reach me
 
 - LinkedIn: [linkedin.com/in/labi-roman](https://www.linkedin.com/in/labi-roman)
-- Portfolio: [testy911cody.github.io/RomanProjects](https://testy911cody.github.io/RomanProjects/)
-- GitHub (until rename): [github.com/Testy911cody](https://github.com/Testy911cody)
-
-*Planned username: `roman` if available at rename time; otherwise a free `roman-*` without “labi” (see Career-Hub `GITHUB_RENAME.md`). Profile repo must match username (`Testy911cody/Testy911cody` today → `{username}/{username}` after rename).*
+- Portfolio: [romans-builds.github.io/RomanProjects](https://romans-builds.github.io/RomanProjects/)
+- GitHub: [github.com/Romans-Builds](https://github.com/Romans-Builds)
